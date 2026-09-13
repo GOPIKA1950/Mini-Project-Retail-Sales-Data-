@@ -230,11 +230,6 @@ AVERAGE(Sales[Price Per Unit])
 * Strengthen customer retention strategies for high-value customers.
 * Promote preferred payment methods to improve customer experience.
 
-
-## 📷 Dashboard Preview
-
-Add screenshots of:
-
 * Dashboard 1: Retail Sales Overview
 * Dashboard 2: Product & Category Analysis
 * Dashboard 3: Time, Location & Customer Analysis
